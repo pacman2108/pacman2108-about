@@ -1,5 +1,5 @@
 {
-  "name": "pronoy2108",
+  "name": "pronoy2108.vercel.app",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
@@ -33,7 +33,10 @@
     "@fontsource/fira-mono": "^4.5.0",
     "@lukeed/uuid": "^2.0.0",
     "cookie": "^0.4.1",
+    "fluent-svelte": "^1.0.91",
+    "focus-trap": "^6.7.1",
     "node-sass": "^7.0.0",
-    "sass": "^1.44.0"
+    "sass": "^1.45.0",
+    "svelte-focus-trap": "^1.2.0"
   }
 }
