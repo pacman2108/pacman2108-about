@@ -20,9 +20,10 @@ npm init svelte@next my-app (replace my-app with your project's name (replace sp
 cd <project name>
 
 # Install node modules for fluent-svelte
-npm i fluent-svelte
+npm i fluent-svelte svelte-focus-trap
 
 npm i sass node-sass
+npm i focus-trap
 ```
 
 > Note: the `@next` is temporary
