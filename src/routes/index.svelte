@@ -22,7 +22,9 @@
 		<Fluent.Button variant="accent" on:click={() => { dialogOpen = false; }}>OK</Fluent.Button>
 	</svelte:fragment>
 	<Fluent.Button variant="accent" href="https://gitlab.com/pronoy2108" target="_blank" rel="noopener noreferrer"><img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/7d94d746fd9b6638308501942f83535b3d0e4334/gitlab.svg">GitHub</Fluent.Button>
+	&nbsp;
 	<Fluent.Button variant="accent" href="https://www.youtube.com/channel/UC2fvHRsz9lwtnRyFHEdR5wA" target="_blank" rel="noopener noreferrer"><img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/7d94d746fd9b6638308501942f83535b3d0e4334/youtube.svg">GitHub</Fluent.Button>
+	&nbsp;
 &nbsp;
 </Fluent.ContentDialog>
 </div>
