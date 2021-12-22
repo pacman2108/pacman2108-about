@@ -14,17 +14,18 @@
 <Fluent.Button variant="accent" href="https://t.me/pronoy2108" target="_blank" rel="noopener noreferrer"><img align="left" alt="Telegram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png">Telegram</Fluent.Button>
 &nbsp;
 <Fluent.Button variant="accent" on:click={()=>{dialogOpen=true}}><img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg">Discord</Fluent.Button>
-<Fluent.ContentDialog bind:open={dialogOpen} title="Opening profiles through URLs aren't implemented into Discord for now.">
+<Fluent.Button variant="accent" href="https://gitlab.com/pronoy2108" target="_blank" rel="noopener noreferrer"><img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/7d94d746fd9b6638308501942f83535b3d0e4334/gitlab.svg">GitHub</Fluent.Button>
+	&nbsp;
+	<Fluent.Button variant="accent" href="https://www.youtube.com/channel/UC2fvHRsz9lwtnRyFHEdR5wA" target="_blank" rel="noopener noreferrer"><img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/7d94d746fd9b6638308501942f83535b3d0e4334/youtube.svg">GitHub</Fluent.Button>
+	&nbsp;
+	<Fluent.ContentDialog bind:open={dialogOpen} title="Opening profiles through URLs aren't implemented into Discord for now.">
 	<div style="display: flex; flex-direction: column; gap: 3px; margin: 0;">
 		<Fluent.TextBlock>You'll need to send a friend request on Discord (4sapCode#9284) to pm me.</Fluent.TextBlock>
 	</div>
 	<svelte:fragment slot="footer">
 		<Fluent.Button variant="accent" on:click={() => { dialogOpen = false; }}>OK</Fluent.Button>
 	</svelte:fragment>
-	<Fluent.Button variant="accent" href="https://gitlab.com/pronoy2108" target="_blank" rel="noopener noreferrer"><img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/7d94d746fd9b6638308501942f83535b3d0e4334/gitlab.svg">GitHub</Fluent.Button>
-	&nbsp;
-	<Fluent.Button variant="accent" href="https://www.youtube.com/channel/UC2fvHRsz9lwtnRyFHEdR5wA" target="_blank" rel="noopener noreferrer"><img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/7d94d746fd9b6638308501942f83535b3d0e4334/youtube.svg">GitHub</Fluent.Button>
-	&nbsp;
+	
 &nbsp;
 </Fluent.ContentDialog>
 </div>
