@@ -23,7 +23,7 @@
 </p>
 <hr/>
 
-</Fluent.ContentDialog>
+<Fluent.ContentDialog>
 </div>
 <div class="pad">
 	<Fluent.Expander>Credits
@@ -50,4 +50,4 @@
 		</Fluent.TextBlock>
 	</svelte:fragment>
 </Fluent.Expander>
-
+</Fluent.ContentDialog>
