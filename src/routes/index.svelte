@@ -4,12 +4,12 @@
 	import "fluent-svelte/theme.css";
 	let dialogOpen = false;
 </script>
-</script>
 <h1 class="ctext"><p><a href="https://pronoy2108.github.io/pronoy2108"><img src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/gh-pages/iceland_improved.png" alt="Header"></a></p></h1>
-<h6>
+<div class="pad ctext">
 	<Fluent.TextBlock>Welcome to pronoy2108's website!</Fluent.TextBlock>
-</h6>
-<div class="pad ctext"><Fluent.Button variant="accent" href="https://github.com/pronoy2108" target="_blank" rel="noopener noreferrer">GitHub</Fluent.Button></div>
+</div>
+<div class="pad ctext">
+	<Fluent.Button variant="accent" href="https://github.com/pronoy2108" target="_blank" rel="noopener noreferrer">GitHub</Fluent.Button>
 &nbsp;
 <Fluent.Button variant="accent" href="https://t.me/pronoy2108" target="_blank" rel="noopener noreferrer">Telegram</Fluent.Button>
 &nbsp;
