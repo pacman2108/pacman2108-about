@@ -14,7 +14,7 @@
 <Fluent.Button variant="accent" href="https://t.me/pronoy2108" target="_blank" rel="noopener noreferrer"><img align="left" alt="Telegram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png">Telegram</Fluent.Button>
 	<Fluent.Button variant="accent" href="https://gitlab.com/pronoy2108" target="_blank" rel="noopener noreferrer"><img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/7d94d746fd9b6638308501942f83535b3d0e4334/gitlab.svg">GitHub</Fluent.Button>
 	&nbsp;
-	<Fluent.Button variant="accent" href="https://www.youtube.com/channel/UC2fvHRsz9lwtnRyFHEdR5wA" target="_blank" rel="noopener noreferrer"><img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/7d94d746fd9b6638308501942f83535b3d0e4334/youtube.svg">GitHub</Fluent.Button>
+	<Fluent.Button variant="accent" href="https://www.youtube.com/channel/UC2fvHRsz9lwtnRyFHEdR5wA" target="_blank" rel="noopener noreferrer"><img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/main/youtube.svg">GitHub</Fluent.Button>
 	&nbsp;
 <Fluent.Button variant="accent" on:click={()=>{dialogOpen=true}}><img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg">Discord</Fluent.Button>
 	<Fluent.ContentDialog bind:open={dialogOpen} title="Opening profiles through URLs aren't implemented into Discord for now.">
