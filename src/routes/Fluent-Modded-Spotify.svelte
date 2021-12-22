@@ -24,7 +24,7 @@
 <hr/>
 
 <Fluent.ContentDialog>
-</div>
+<div>
 <div class="pad">
 	<Fluent.Expander>Credits
 	<svelte:fragment slot="content">
@@ -32,6 +32,7 @@
 		<Fluent.TextBlock></Fluent.TextBlock>
 		<Fluent.TextBlock>
 			<a href="https://github.com/khanhas/spicetify-cli">Spicetify</a> theme inspired by Windows 11 UI and Microsoft's Fluent Design
+            </div>
             </div>
 
 <br>
