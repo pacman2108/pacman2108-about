@@ -46,7 +46,7 @@
 	<Fluent.Expander>GitHub projects
 		<svelte:fragment slot="content">
 			<ul>
-				<li><Fluent.Button variant="hyperlink" href="https://pronoy2108.github.io/Superfolders" target="_blank" rel="noopener noreferrer">Superfolders</Fluent.Button></li>
+				<li><Fluent.Button variant="hyperlink" href="https://github.com/pronoy2108/Superfolders" target="_blank" rel="noopener noreferrer">Superfolders</Fluent.Button></li>
 				<li><Fluent.Button variant="hyperlink" href="https://github.com/pronoy2108/Fluent-Modded-Spotify" target="_blank" rel="noopener noreferrer">Fluent-Modded-Spotify</Fluent.Button></li>
 				& many more cool projects
 			</ul>
