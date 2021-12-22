@@ -13,7 +13,7 @@
 &nbsp;
 <Fluent.Button variant="accent" href="https://t.me/pronoy2108" target="_blank" rel="noopener noreferrer">Telegram</Fluent.Button>
 &nbsp;
-<Fluent.Button variant="accent" on:click={()=>{dialogOpen=true}}>Discord</Fluent.Button>
+<Fluent.Button variant="accent" on:click={()=>{dialogOpen=true}}><img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg">Discord</Fluent.Button>
 <Fluent.ContentDialog bind:open={dialogOpen} title="Opening profiles through URLs aren't implemented into Discord for now.">
 	<div style="display: flex; flex-direction: column; gap: 3px; margin: 0;">
 		<Fluent.TextBlock>You'll need to send a friend request on Discord (4sapCode#9284) to pm me.</Fluent.TextBlock>
@@ -26,7 +26,8 @@
 <div class="pad">
 	<Fluent.Expander>About me
 	<svelte:fragment slot="content">
-		<Fluent.TextBlock>Power user, Open-source enthusiast, Student developer, who is passionate about computer science.</Fluent.TextBlock>
+<h1 id="heythereimgsrchttpsrawgithubusercontentcommartinheinzmartinheinzmasterwavegifwidth30px">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+		<Fluent.TextBlock>I'm Pronoy, a power user, open-source enthusiast, student developer, who is passionate about computer science.</Fluent.TextBlock>
 		<p></p>
 		<Fluent.TextBlock>You can find me here:
 			<ul>
