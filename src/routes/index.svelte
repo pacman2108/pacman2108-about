@@ -66,12 +66,13 @@
 	<Fluent.Expander>Credits
 		<svelte:fragment slot="content">
 			<p>
-				Fluent Design: <Fluent.Button variant="hyperlink" href="https://github.com/Tropix126/fluent-svelte" target="_blank" rel="noopener noreferrer">https://github.com/Tropix126/fluent-svelte</Fluent.Button>
+				Fluent Design: <Fluent.Button variant="hyperlink" href="https://github.com/Tropix126/fluent-svelte" target="_blank" rel="noopener noreferrer">Fluent-Svelte</Fluent.Button>
 			</p>
-			<p><ul>
+			<p>
+<ul>
 				<li><Fluent.Button variant="hyperlink" href="https://github.com/Tropix126" target="_blank" rel="noopener noreferrer">Tropix126</Fluent.Button></li>
 				<li><Fluent.Button variant="hyperlink" href="https://github.com/TheOnlyTails" target="_blank" rel="noopener noreferrer">TheOnlyTails</Fluent.Button></li>
-			</ul></p>
+			</ul>
 		</svelte:fragment>
 	</Fluent.Expander>
 </div>
