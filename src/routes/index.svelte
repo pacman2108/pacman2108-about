@@ -65,12 +65,13 @@
 	</Fluent.Expander>
 	<Fluent.Expander>Credits
 		<svelte:fragment slot="content">
-			<ul>
+			<p>
+				Fluent Design: <Fluent.Button variant="hyperlink" href="https://github.com/Tropix126/fluent-svelte" target="_blank" rel="noopener noreferrer">https://github.com/Tropix126/fluent-svelte</Fluent.Button>
+			</p>
+			<p><ul>
 				<li><Fluent.Button variant="hyperlink" href="https://github.com/Tropix126" target="_blank" rel="noopener noreferrer">Tropix126</Fluent.Button></li>
 				<li><Fluent.Button variant="hyperlink" href="https://github.com/TheOnlyTails" target="_blank" rel="noopener noreferrer">TheOnlyTails</Fluent.Button></li>
-			</ul>
-			<p></p>
-			Thanks for porting Microsoft's Fluent UI to Svelte!
+			</ul></p>
 		</svelte:fragment>
 	</Fluent.Expander>
 </div>
