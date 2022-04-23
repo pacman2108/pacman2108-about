@@ -1,4 +1,4 @@
-<!--<script>
+<script>
 	import Header from "$lib/header/Header.svelte";
 	import * as Fluent from "fluent-svelte";
 	import "fluent-svelte/theme.css";
@@ -44,5 +44,5 @@
 <Fluent.Expander>
     <h2>About</h2>
 </Fluent.Expander>
---->
+
 
