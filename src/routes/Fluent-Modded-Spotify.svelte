@@ -25,6 +25,15 @@ import "fluent-svelte/theme.css";
 </p>
 <hr/>
 
+<div class="pad ctext">
+	<Fluent.Expander>About
+	<svelte:fragment slot="content">
+
+</Fluent.TextBlock>
+</svelte:fragment>
+</Fluent.Expander>
+</div>
+<hr />
 
 <div class="pad ctext">
 	<Fluent.Expander>Credits
@@ -50,17 +59,37 @@ import "fluent-svelte/theme.css";
 <div class="pad ctext">
 	<Fluent.Expander>Screenshots
 	<svelte:fragment slot="content">
-<h3><a href="https://github.com/williamckha/spicetify-fluent">williamckha/spicetify-fluent</a></h3>
-<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-1.png?raw=true" alt="dark-1">
+		<center>
 <Fluent.TextBlock>
-<hr />
-<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-2.png?raw=true" alt="dark-2">
-<hr />
-<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/light-1.png?raw=true" alt="light-1">
-<hr />
+<table>
+	
+<tr>
+	<td>
+	<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-1.png?raw=true" alt="App, Home Page (Dark Mode)">
+</td>
+</tr>
+
+<tr>
+	<td>
+	<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-2.png?raw=true" alt="App, Search Page (Dark Mode)">
+</td>
+</tr>
+	
+
+<tr>
+	<td>
+		<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/light-1.png?raw=true" alt="App, Home Page (Light Mode)">
+	</td>
+</tr>
+
+<tr>
+	<td>
+	<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/light-2.png?raw=true" alt="App, Search Page (Light Mode)">
+</td>
+</tr>
+</center>
 </Fluent.TextBlock>
 </svelte:fragment>
 </Fluent.Expander>
 </div>
 
-<!--fixed html bugs-->
