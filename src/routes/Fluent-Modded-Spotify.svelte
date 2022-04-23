@@ -33,8 +33,9 @@ import "fluent-svelte/theme.css";
 		<ul><Fluent.TextBlock>
 			<li><a href="https://github.com/khanhas/spicetify-cli">Spicetify</a> theme inspired by Windows 11 UI and Microsoft's Fluent Design</li>
 		</Fluent.TextBlock>
+		</ul>
 	
-		<Fluent.TextBlock>
+		<ul><Fluent.TextBlock>
 			<p><li><a href="https://github.com/amd64fox/BlockTheSpot">BlockTheSpot</a>, for adblocking binaries/files (Warning ⚠: These wouldn't work on the UWP versions of this app)</li></p>p>
            </Fluent.TextBlock>
 		   </ul>
