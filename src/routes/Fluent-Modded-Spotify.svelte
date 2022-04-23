@@ -36,7 +36,10 @@ import "fluent-svelte/theme.css";
 		</ul>
 	
 		<ul><Fluent.TextBlock>
-			<p><li><a href="https://github.com/amd64fox/BlockTheSpot">BlockTheSpot</a>, for adblocking binaries/files (Warning ⚠: These wouldn't work on the UWP versions of this app)</li></p>p>
+			<p><li>
+				<a href="https://github.com/amd64fox/BlockTheSpot">BlockTheSpot</a>, for adblocking binaries/files (Warning ⚠: These wouldn't work on the UWP versions of this app)
+			</li>
+			</p>
            </Fluent.TextBlock>
 		   </ul>
 		</svelte:fragment>
