@@ -9,7 +9,7 @@ import "fluent-svelte/theme.css";
   Fluent-Modded-Spotify
 </h2>
   
-  <img align="center" width="256" height="256" src="https://raw.githubusercontent.com/pronoy2108/Fluent-Modded-Spotify/main/spotify-icon.png"></img>
+  <img align="center" width="256" height="256" src="https://raw.githubusercontent.com/pronoy2108/Fluent-Modded-Spotify/main/spotify-icon.png">
   
   
   <p align="center">Icon made by <a href="https://t.me/Qirkl">Qirkl</a></p>
@@ -35,6 +35,7 @@ import "fluent-svelte/theme.css";
 		</svelte:fragment>
 </Fluent.Expander>
 <hr />
+</div>
 
 <div class="pad ctext">
 	<Fluent.Expander>Screenshots
@@ -50,4 +51,4 @@ import "fluent-svelte/theme.css";
 </Fluent.TextBlock>
 </svelte:fragment>
 </Fluent.Expander>
-</hr>
+</div>
