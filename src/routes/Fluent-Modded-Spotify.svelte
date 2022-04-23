@@ -30,12 +30,13 @@ import "fluent-svelte/theme.css";
 	<Fluent.Expander>Credits
 	<svelte:fragment slot="content">
 <h3><a href="https://github.com/williamckha/spicetify-fluent">williamckha/spicetify-fluent</a></h3>
-		<Fluent.TextBlock>
-			<ul><a href="https://github.com/khanhas/spicetify-cli">Spicetify</a> theme inspired by Windows 11 UI and Microsoft's Fluent Design</ul>
+		<ul><Fluent.TextBlock>
+			<li><a href="https://github.com/khanhas/spicetify-cli">Spicetify</a> theme inspired by Windows 11 UI and Microsoft's Fluent Design</li>
 		</Fluent.TextBlock>
 	<Fluent.TextBlock>
-			<ul><a href="https://github.com/amd64fox/BlockTheSpot">BlockTheSpot</a>, for adblocking binaries/files (Warning ⚠: These wouldn't work on the UWP versions of this app)</ul>
+			<li><a href="https://github.com/amd64fox/BlockTheSpot">BlockTheSpot</a>, for adblocking binaries/files (Warning ⚠: These wouldn't work on the UWP versions of this app)</li>
            </Fluent.TextBlock>
+		   </ul>
 		</svelte:fragment>
 </Fluent.Expander>
 <hr />
