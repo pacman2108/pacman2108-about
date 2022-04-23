@@ -33,6 +33,7 @@ import "fluent-svelte/theme.css";
 		<h4 id="windows">Windows:</h4>
 		
 		<ul>
+			<Fluent.TextBlock>
 		<li>Download the two files from Releases</li>
 		
 		<li>Copy them to a folder in an easily accessible location like Desktop</li>
@@ -71,7 +72,7 @@ import "fluent-svelte/theme.css";
 		<p>Follow the same process for Linux above, except the install scripts can be downloaded from <a href="https://github.com/windowz414/FMS-Arch">here</a></p>
 		
 		<todo content="[windowz414]: Finish fullinstall_arch.sh (A script to unify FMS-Arch) and put its utilization instead." />
-		
+
 		<p>Credits: Installation steps for Windows by <a href="https://github.com/donut2008">donut2008</a></p>
 		
 		<p>Note: <code>autorunscript.ps1</code>/<code>autorunscript.sh</code> is a file which automatically installs the dependencies for this app (needs admin priviledges to work)</p>
@@ -85,12 +86,14 @@ import "fluent-svelte/theme.css";
 	<Fluent.Expander>Credits
 	<svelte:fragment slot="content">
 <h3><a href="https://github.com/williamckha/spicetify-fluent">williamckha/spicetify-fluent</a></h3>
-		<ul><Fluent.TextBlock>
+		<ul>
+			<Fluent.TextBlock>
 			<li><a href="https://github.com/khanhas/spicetify-cli">Spicetify</a> theme inspired by Windows 11 UI and Microsoft's Fluent Design</li>
 		</Fluent.TextBlock>
 		</ul>
 	
-		<ul><Fluent.TextBlock>
+		<ul>
+			<Fluent.TextBlock>
 			<p><li>
 				<a href="https://github.com/amd64fox/BlockTheSpot">BlockTheSpot</a>, for adblocking binaries/files (Warning ⚠: These wouldn't work on the UWP versions of this app)
 			</li>
