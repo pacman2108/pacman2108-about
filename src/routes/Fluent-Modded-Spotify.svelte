@@ -26,9 +26,55 @@ import "fluent-svelte/theme.css";
 <hr/>
 
 <div class="pad ctext">
-	<Fluent.Expander>About
+	<Fluent.Expander>Installation
 	<svelte:fragment slot="content">
+		<h2 id="installation">Installation</h2>
 
+		<h4 id="windows">Windows:</h4>
+		
+		<ul>
+		<li>Download the two files from Releases</li>
+		
+		<li>Copy them to a folder in an easily accessible location like Desktop</li>
+		
+		<li>Install <code>scoop</code> using <code>iwr -useb get.scoop.sh | iex</code></li>
+		
+		<li>After scoop is installed, type <code>Set-ExecutionPolicy unrestricted</code> in Powershell with elevated privileges</li>
+		
+		<li>Run Spotify.exe as admin (it's a 7z archive and requires admin to extract the files for some reason)</li>
+		
+		<li>Run <code>autorunscript.ps1</code> to install all dependencies</li>
+		
+		<li>Extract it to the same location</li>
+		
+		<li>Run <code>Fluent Spotify.exe</code></li>
+		
+		<li>Install it however you want, for all users/for the current user only</li>
+		
+		<li>After installing, go to the <code>Spotify</code> folder you just extracted and run <code>Spotify.exe</code></li>
+		
+		<li>You should have Fluent Design in the Spotify app now!</li>
+		</ul>
+		
+		<h4 id="linux">Linux:</h4>
+		
+		<ul>
+		<li>Download the two files from Releases</li>
+		
+		<li>Run <code>autorunscript.sh</code> to install all dependencies.</li>
+		
+		<li>Run <code>Fluent Spotify.deb</code></li>
+		</ul>
+		
+		<h4 id="archlinuxanditsderivatives">Arch Linux and its Derivatives</h4>
+		
+		<p>Follow the same process for Linux above, except the install scripts can be downloaded from <a href="https://github.com/windowz414/FMS-Arch">here</a></p>
+		
+		<todo content="[windowz414]: Finish fullinstall_arch.sh (A script to unify FMS-Arch) and put its utilization instead." />
+		
+		<p>Credits: Installation steps for Windows by <a href="https://github.com/donut2008">donut2008</a></p>
+		
+		<p>Note: <code>autorunscript.ps1</code>/<code>autorunscript.sh</code> is a file which automatically installs the dependencies for this app (needs admin priviledges to work)</p>
 </Fluent.TextBlock>
 </svelte:fragment>
 </Fluent.Expander>
