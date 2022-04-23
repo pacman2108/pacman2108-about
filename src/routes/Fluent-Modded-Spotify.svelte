@@ -30,6 +30,7 @@
 		<Fluent.TextBlock>
 			<a href="https://github.com/khanhas/spicetify-cli">Spicetify</a> theme inspired by Windows 11 UI and Microsoft's Fluent Design
            </Fluent.TextBlock>
+		</svelte:fragment>
 <hr />
 
 <img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-1.png?raw=true" alt="dark-1">
