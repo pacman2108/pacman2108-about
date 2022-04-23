@@ -19,8 +19,7 @@
 <Fluent.Button variant="accent" href="https://discordapp.com/users/4C#9284" <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg">Discord</Fluent.Button>
 	
 	
-&nbsp;
-</Fluent.ContentDialog>
+
 </div>
 <div class="pad">
 	<Fluent.Expander>About me
