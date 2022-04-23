@@ -33,7 +33,7 @@ import "fluent-svelte/theme.css";
 		<h4 id="windows">Windows:</h4>
 		
 		<Fluent.TextBlock>
-			
+
 		<ul>
 			
 		<li>Download the two files from Releases</li>
@@ -113,8 +113,8 @@ import "fluent-svelte/theme.css";
 	<svelte:fragment slot="content">
 		<center>
 <Fluent.TextBlock>
-<table>
-	
+<center>
+	<table>
 <tr>
 	<td>
 	<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-1.png?raw=true" alt="App, Home Page (Dark Mode)">
