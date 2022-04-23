@@ -16,14 +16,8 @@
 	&nbsp;
 	<Fluent.Button variant="accent" href="https://www.youtube.com/channel/UC2fvHRsz9lwtnRyFHEdR5wA" target="_blank" rel="noopener noreferrer"><img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/main/youtube.svg">YouTube</Fluent.Button>
 	&nbsp;
-<Fluent.Button variant="accent" on:click={()=>{dialogOpen=true}}><img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg">Discord</Fluent.Button>
-	<Fluent.ContentDialog bind:open={dialogOpen} title="Opening profiles through URLs aren't implemented into Discord for now.">
-	<div style="display: flex; flex-direction: column; gap: 3px; margin: 0;">
-		<Fluent.TextBlock>You'll need to send a friend request on Discord (4sapCode#9284) to pm me.</Fluent.TextBlock>
-	</div>
-	<svelte:fragment slot="footer">
-		<Fluent.Button variant="accent" on:click={() => { dialogOpen = false; }}>OK</Fluent.Button>
-	</svelte:fragment>
+<Fluent.Button variant="accent" href="https://discordapp.com/users/4C#9284" <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg">Discord</Fluent.Button>
+	
 	
 &nbsp;
 </Fluent.ContentDialog>
