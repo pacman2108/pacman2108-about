@@ -32,8 +32,10 @@ import "fluent-svelte/theme.css";
 
 		<h4 id="windows">Windows:</h4>
 		
+		<Fluent.TextBlock>
+			
 		<ul>
-			<Fluent.TextBlock>
+			
 		<li>Download the two files from Releases</li>
 		
 		<li>Copy them to a folder in an easily accessible location like Desktop</li>
@@ -55,6 +57,7 @@ import "fluent-svelte/theme.css";
 		<li>After installing, go to the <code>Spotify</code> folder you just extracted and run <code>Spotify.exe</code></li>
 		
 		<li>You should have Fluent Design in the Spotify app now!</li>
+		
 		</ul>
 		
 		<h4 id="linux">Linux:</h4>
