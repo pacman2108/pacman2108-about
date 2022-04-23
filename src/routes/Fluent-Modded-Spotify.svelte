@@ -29,7 +29,7 @@
 		<Fluent.TextBlock></Fluent.TextBlock>
 		<Fluent.TextBlock>
 			<a href="https://github.com/khanhas/spicetify-cli">Spicetify</a> theme inspired by Windows 11 UI and Microsoft's Fluent Design
-         </div>
+        
 
 <hr />
 
