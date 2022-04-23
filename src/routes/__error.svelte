@@ -13,13 +13,13 @@
 <footer>
 	<div class="pad">
         <div class="textalign">
-            <img src="https://img.icons8.com/fluency/48/error.png" alt="error">
+            <img src="https://img.icons8.com/fluency/64/error.png" alt="error">
         </div>
         <h1 class="ctext">There's an error ☹️</h1>
     </div>
     <div class="pad">
 		<div class="ctext">
-        <Fluent.TextBlock>The requested page either does not exist, or didn't load properly.</Fluent.TextBlock>
+        <Fluent.TextBlock>The page you requested for either does not exist, or didn't load properly.</Fluent.TextBlock>
 	</div>
     </div>
 </footer>
