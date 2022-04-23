@@ -16,7 +16,8 @@
 	&nbsp;
 	<Fluent.Button variant="accent" href="https://www.youtube.com/channel/UC2fvHRsz9lwtnRyFHEdR5wA" target="_blank" rel="noopener noreferrer"><img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/main/youtube.svg">YouTube</Fluent.Button>
 	&nbsp;
-<Fluent.Button variant="accent" href="https://discordapp.com/users/4C#9284" <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg">Discord</Fluent.Button>
+<Fluent.Button variant="accent" href="https://discordapp.com/users/4C#9284" target="_blank" rel="noopener noreferrer"><img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg">Discord</Fluent.Button>
+	&nbsp;
 	
 	
 
