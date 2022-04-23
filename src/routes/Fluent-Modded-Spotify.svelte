@@ -52,3 +52,5 @@ import "fluent-svelte/theme.css";
 </svelte:fragment>
 </Fluent.Expander>
 </div>
+
+<!--fixed html bugs-->
