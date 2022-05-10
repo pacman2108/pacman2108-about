@@ -13,7 +13,7 @@
 <footer>
 	<div class="pad">
         <div class="textalign">
-            <img src="./error.svg" alt="error">
+            <img src="https://raw.githubusercontent.com/pronoy2108/pronoy2108.about/master/error.svg" alt="error">
         </div>
         <h1 class="ctext">Something went wrong! ☹️</h1>
     </div>
