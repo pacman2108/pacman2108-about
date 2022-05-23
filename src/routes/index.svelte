@@ -42,6 +42,7 @@
 			<ul>
 				<li><Fluent.Button variant="hyperlink" href="https://github.com/pronoy2108/Superfolders" target="_blank" rel="noopener noreferrer">Superfolders</Fluent.Button></li>
 				<li><Fluent.Button variant="hyperlink" href="tinyurl.com/fms-webpage" target="_blank" rel="noopener noreferrer">Fluent-Modded-Spotify</Fluent.Button></li>
+				<li><Fluent.Button variant="hyperlink" href="https://github.com/pronoy2108/Carpeddit" target="_blank" rel="noopener noreferrer">Carpeddit (Fork of itsWindows11/Carpeddit)</Fluent.Button></li>
 				& many more cool projects
 			</ul>
 		</svelte:fragment>
