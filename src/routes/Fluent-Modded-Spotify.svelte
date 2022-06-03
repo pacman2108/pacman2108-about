@@ -26,6 +26,10 @@ import "fluent-svelte/theme.css";
 <hr/>
 
 <div class="pad ctext">
+	<Fluent.Button variant="accent" href="https://t.me/+QH7XDjCPH-E2ZDdl" target="_blank" rel="noopener noreferrer"><img align="left" alt="Telegram Channel (Updates)" width="21px" src="https://files.catbox.moe/sc0rt9.png">Telegram Channel (Updates)</Fluent.Button>
+</div>
+
+<div class="pad ctext">
 	<Fluent.Expander>Installation
 	<svelte:fragment slot="content">
 		<h2 id="installation">Installation</h2>
@@ -144,4 +148,3 @@ import "fluent-svelte/theme.css";
 </svelte:fragment>
 </Fluent.Expander>
 </div>
-
