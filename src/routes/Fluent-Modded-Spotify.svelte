@@ -16,7 +16,7 @@ import "fluent-svelte/theme.css";
   <p align="center">Icon made by <a href="https://t.me/Qirkl">Qirkl</a></p>
 <p align="center">Spotify, but with a hint of Fluent Design</p>
   
-<div class="pad ctext"></div>
+<div class="pad ctext">
 <p align="center">
 <a href="https://github.com/pronoy2108/Fluent-Modded-Spotify/releases/tag/v2.5">
     <img src="https://img.shields.io/github/v/release/pronoy2108/Fluent-Modded-Spotify?label=version"></a>
