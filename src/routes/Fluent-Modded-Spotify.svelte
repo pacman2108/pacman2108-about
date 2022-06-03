@@ -16,17 +16,16 @@ import "fluent-svelte/theme.css";
   <p align="center">Icon made by <a href="https://t.me/Qirkl">Qirkl</a></p>
 <p align="center">Spotify, but with a hint of Fluent Design</p>
   
-
+<div class="pad ctext"></div>
 <p align="center">
 <a href="https://github.com/pronoy2108/Fluent-Modded-Spotify/releases/tag/v2.5">
     <img src="https://img.shields.io/github/v/release/pronoy2108/Fluent-Modded-Spotify?label=version"></a>
 
 <img src="https://img.shields.io/github/downloads/pronoy2108/Fluent-Modded-Spotify/total">
+
+<Fluent.Button variant="accent" href="https://t.me/+QH7XDjCPH-E2ZDdl" target="_blank" rel="noopener noreferrer"><img align="left" alt="Telegram Channel (Updates)" width="21px" src="https://files.catbox.moe/sc0rt9.png">Telegram Channel (Updates)</Fluent.Button>
 </p>
 <hr/>
-
-<div class="pad ctext">
-	<Fluent.Button variant="accent" href="https://t.me/+QH7XDjCPH-E2ZDdl" target="_blank" rel="noopener noreferrer"><img align="left" alt="Telegram Channel (Updates)" width="21px" src="https://files.catbox.moe/sc0rt9.png">Telegram Channel (Updates)</Fluent.Button>
 </div>
 
 <div class="pad ctext">
