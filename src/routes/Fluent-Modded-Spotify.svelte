@@ -118,31 +118,19 @@ import "fluent-svelte/theme.css";
 		<center>
 <Fluent.TextBlock>
 <center>
-	<table>
-<tr>
-	<td>
-	<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-1.png?raw=true" alt="App, Home Page (Dark Mode)">
-</td>
-</tr>
-
-<tr>
-	<td>
-	<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-2.png?raw=true" alt="App, Search Page (Dark Mode)">
-</td>
-</tr>
-	
-
-<tr>
-	<td>
-		<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/light-1.png?raw=true" alt="App, Home Page (Light Mode)">
-	</td>
-</tr>
-
-<tr>
-	<td>
-	<img src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/light-2.png?raw=true" alt="App, Search Page (Light Mode)">
-</td>
-</tr>
+	<article class="markdown-body"><table>
+		<thead>
+		<tr>
+		<th><img alt="App, Home Page (Dark Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-1.png?raw=true"></th>
+		<th><img alt="App, Search Page (Dark Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-2.png?raw=true"></th>
+		</tr>
+		</thead>
+		<tbody><tr>
+		<td><img alt="App, Home Page (Light Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/light-1.png?raw=true"></td>
+		<td><img alt="App, Search Page (Light Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/light-2.png?raw=true"></td>
+		</tr>
+		</tbody></table>
+		</article>
 </center>
 </Fluent.TextBlock>
 </svelte:fragment>
