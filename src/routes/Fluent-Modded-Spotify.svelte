@@ -21,7 +21,7 @@ import "fluent-svelte/theme.css";
 <a href="https://github.com/pronoy2108/Fluent-Modded-Spotify/releases/tag/v2.5">
     <img src="https://img.shields.io/github/v/release/pronoy2108/Fluent-Modded-Spotify?label=version"></a>
 
-<Fluent.Button variant="accent" href="https://t.me/+QH7XDjCPH-E2ZDdl" target="_blank" rel="noopener noreferrer"><img align="left" alt="Telegram Channel (Updates)" width="21px" src="https://files.catbox.moe/sc0rt9.png">Telegram Channel (Updates)</Fluent.Button>
+<Fluent.Button variant="accent" href="https://t.me/fms_app" target="_blank" rel="noopener noreferrer"><img align="left" alt="Telegram Channel (Updates)" width="21px" src="https://files.catbox.moe/sc0rt9.png">Telegram Channel (Updates)</Fluent.Button>
 <img src="https://img.shields.io/github/downloads/pronoy2108/Fluent-Modded-Spotify/total">
 
 
@@ -70,8 +70,6 @@ import "fluent-svelte/theme.css";
 		<li>Download the two files from Releases</li>
 		
 		<li>Run <code>autorunscript.sh</code> to install all dependencies.</li>
-		
-		<li>Run <code>Fluent Spotify.deb</code></li>
 		</ul>
 		
 		<h4 id="archlinuxanditsderivatives">Arch Linux and its Derivatives</h4>
@@ -92,7 +90,7 @@ import "fluent-svelte/theme.css";
 <div class="pad ctext">
 	<Fluent.Expander>Credits
 	<svelte:fragment slot="content">
-<h3><a href="https://github.com/williamckha/spicetify-fluent">williamckha/spicetify-fluent</a></h3>
+<h3><a href="https://github.com/nimsandu/spicetify-bloom">nimsandu/spicetify-bloom</a></h3>
 		<ul>
 			<Fluent.TextBlock>
 			<li><a href="https://github.com/khanhas/spicetify-cli">Spicetify</a> theme inspired by Windows 11 UI and Microsoft's Fluent Design</li>
@@ -118,18 +116,9 @@ import "fluent-svelte/theme.css";
 		<center>
 <Fluent.TextBlock>
 <center>
-	<article class="markdown-body"><table>
-		<thead>
-		<tr>
-		<th><img alt="App, Home Page (Dark Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-1.png?raw=true"></th>
-		<th><img alt="App, Search Page (Dark Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-2.png?raw=true"></th>
-		</tr>
-		</thead>
-		<tbody><tr>
-		<td><img alt="App, Home Page (Light Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/light-1.png?raw=true"></td>
-		<td><img alt="App, Search Page (Light Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/light-2.png?raw=true"></td>
-		</tr>
-		</tbody></table>
+	<article class="markdown-body">
+		<img alt="App, Home Page (Dark Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-1.png?raw=true"></th>
+		<img alt="App, Search Page (Dark Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-2.png?raw=true"></th>
 		</article>
 </center>
 </Fluent.TextBlock>
