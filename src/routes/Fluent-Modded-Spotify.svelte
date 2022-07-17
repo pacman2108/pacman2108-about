@@ -117,8 +117,8 @@ import "fluent-svelte/theme.css";
 <Fluent.TextBlock>
 <center>
 	<article class="markdown-body">
-		<img alt="App, Home Page (Dark Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-1.png?raw=true"></th>
-		<img alt="App, Search Page (Dark Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-2.png?raw=true"></th>
+		<img alt="App, Home Page (Dark Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-1.png?raw=true">
+		<img alt="App, Search Page (Dark Mode)" src="https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-2.png?raw=true">
 		</article>
 </center>
 </Fluent.TextBlock>
