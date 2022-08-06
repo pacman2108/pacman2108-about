@@ -8,7 +8,7 @@
 <TextBox type="search" placeholder="Search the web" form method="get" action="https://www.google.com/search"></TextBox>
 <div class="pad ctext">
 <Fluent.Button variant="standard" href="https://www.google.com/doodles" target="_blank" rel="noopener noreferrer">I'm Feeling Lucky</Fluent.Button>
-
+</div>
 <style>
 	@import url("https://unpkg.com/fluent-svelte/theme.css");
 	@media(prefers-color-scheme: light){
