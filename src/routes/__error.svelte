@@ -19,7 +19,14 @@
     </div>
     <div class="pad">
 		<div class="ctext">
-        <Fluent.TextBlock>The requested page doesn't exist, or didn't load correctly.</Fluent.TextBlock>
+        <Fluent.TextBlock>
+		<ul>
+	<li> Make sure the web address is correct </li>
+	<li> <Fluent.Button variant="hyperlink" onclick="reload()">Go back to the previous page</Fluent.Button> </li>
+	<li> <Fluent.Button variant="hyperlink" onclick="reload()">Refresh this page</Fluent.Button> </li>
+	<li> This page is down or has bugs </li>
+		<ul>
+		</Fluent.TextBlock>
 	</div>
     </div>
 </footer>
