@@ -23,7 +23,7 @@
 		<ul>
 	<li> Make sure the web address is correct </li>
 	<li> <Fluent.Button variant="hyperlink" href="javascript:history.go(-1)">Go back to the previous page</Fluent.Button> </li>
-	<li> <Fluent.Button variant="hyperlink" href="javascript:reload()">Refresh this page</Fluent.Button> </li>
+	<li> <Fluent.Button variant="hyperlink" href="location.reload()">Refresh this page</Fluent.Button> </li>
 	<li> This page is down or has bugs </li>
 		<ul>
 		</Fluent.TextBlock>
