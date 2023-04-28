@@ -21,7 +21,9 @@ import "fluent-svelte/theme.css";
 <a href="https://github.com/pronoy2108/Fluent-Modded-Spotify/releases/tag/v2.5">
     <img src="https://img.shields.io/github/v/release/pronoy2108/Fluent-Modded-Spotify?label=version"></a>
 
-<Fluent.Button variant="accent" href="https://t.me/fms_app" target="_blank" rel="noopener noreferrer"><img align="left" alt="Telegram Channel (Updates)" width="21px" src="https://files.catbox.moe/sc0rt9.png">Telegram Channel (Updates)</Fluent.Button>
+<Fluent.Button variant="accent" href="https://t.me/fms_app" target="_blank" rel="noopener noreferrer"><style>.button.style-accent.svelte-1ulhukx {
+    background-color: hsl(140deg 70.59% 44.77%);
+}</style><img align="left" alt="Telegram Channel (Updates)" width="21px" src="https://files.catbox.moe/sc0rt9.png">Telegram Channel (Updates)</Fluent.Button>
 <img src="https://img.shields.io/github/downloads/pronoy2108/Fluent-Modded-Spotify/total">
 
 
