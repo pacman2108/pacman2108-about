@@ -15,6 +15,7 @@
 	<Fluent.Button variant="accent" href="https://gitlab.com/pronoy2108" target="_blank" rel="noopener noreferrer"><img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/be702a19f399e8802b14e43d34545d236c5b102b/gitlab.svg">GitLab</Fluent.Button>
 	&nbsp;
 	<Fluent.Button variant="accent" href="https://www.youtube.com/channel/UC2fvHRsz9lwtnRyFHEdR5wA" target="_blank" rel="noopener noreferrer"><img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/main/youtube.svg">YouTube</Fluent.Button>
+<Fluent.Button variant="accent" href="https://open.spotify.com/user/31d6ezr4ppjirt55dq3eplmocjiy" target="_blank" rel="noopener noreferrer"><img align="left" alt="Spotify" width="21px" src="https://raw.githubusercontent.com/pronoy2108/Fluent-Modded-Spotify/main/spotify-icon.png">Spotify</Fluent.Button>
 	&nbsp;
 <Fluent.Button variant="accent" href="https://discordapp.com/users/4C#9284" target="_blank" rel="noopener noreferrer"><img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg">Discord</Fluent.Button>
 	&nbsp;
@@ -25,7 +26,7 @@
 <div class="pad">
 	<Fluent.Expander>About me
 	<svelte:fragment slot="content">
-<h1 id="heythereimgsrchttpsrawgithubusercontentcommartinheinzmartinheinzmasterwavegifwidth30px">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 id="hi">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 		<Fluent.TextBlock>I'm Pronoy, a power user, open-source enthusiast, student developer, who is passionate about computer science.</Fluent.TextBlock>
 		<p></p>
 		<Fluent.TextBlock>You can find me here:
@@ -42,7 +43,7 @@
 			<ul>
 				<li><Fluent.Button variant="hyperlink" href="https://github.com/pronoy2108/Superfolders" target="_blank" rel="noopener noreferrer">Superfolders</Fluent.Button></li>
 				<li><Fluent.Button variant="hyperlink" href="https://tinyurl.com/fms-webpage" target="_blank" rel="noopener noreferrer">Fluent-Modded-Spotify</Fluent.Button></li>
-				<li><Fluent.Button variant="hyperlink" href="https://github.com/pronoy2108/Carpeddit" target="_blank" rel="noopener noreferrer">Carpeddit (Fork of itsWindows11/Carpeddit)</Fluent.Button></li>
+				<li><Fluent.Button variant="hyperlink" href="https://github.com/Pidgin-Droid" target="_blank" rel="noopener noreferrer">Pidgin-Droid <br>(Pidgin client for Android)</Fluent.Button></li>
 				& many more cool projects
 			</ul>
 		</svelte:fragment>
