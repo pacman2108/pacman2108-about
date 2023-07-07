@@ -13,7 +13,7 @@ import "fluent-svelte/theme.css";
 <img align="center" width="256" height="256" src="https://raw.githubusercontent.com/pronoy2108/Fluent-Modded-Spotify/main/spotify-icon.png">
   </center>
   
-  <p align="center">Icon made by <a href="https://t.me/Qirkl">Qirkl</a></p>
+  <p align="center">Icon made by <a href="https://twitter.com/Qirkl">Qirkl</a></p>
 <p align="center">Spotify, but with a hint of Fluent Design</p>
   
 <div class="pad ctext">
