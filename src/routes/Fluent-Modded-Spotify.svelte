@@ -109,7 +109,6 @@ import "fluent-svelte/theme.css";
 
 <li>Installation steps for Windows: <a href="https://github.com/donut2008">donut2008</a></li>
 
-</ul>
 			</Fluent.TextBlock>
 
 		<ul>
