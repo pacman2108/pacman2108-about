@@ -13,7 +13,7 @@ import "fluent-svelte/theme.css";
 <img align="center" width="256" height="256" src="https://raw.githubusercontent.com/pronoy2108/Fluent-Modded-Spotify/main/spotify-icon.png">
   </center>
   
-  <p align="center">Icon made by <a href="https://twitter.com/Qirkl">Qirkl</a></p>
+
 <p align="center">Spotify, but with a hint of Fluent Design</p>
   
 <div class="pad ctext">
@@ -92,13 +92,20 @@ import "fluent-svelte/theme.css";
 <div class="pad ctext">
 	<Fluent.Expander>Credits
 	<svelte:fragment slot="content">
-<h3><a href="https://github.com/nimsandu/spicetify-bloom">nimsandu/spicetify-bloom</a></h3>
-		<ul>
+
+<ul>
 			<Fluent.TextBlock>
-			<li><a href="https://github.com/khanhas/spicetify-cli">Spicetify</a> theme inspired by Windows 11 UI and Microsoft's Fluent Design</li>
+			<li><a href="https://github.com/nimsandu/spicetify-bloom">Spicetify-bloom -</a><li><a href="https://github.com/khanhas/spicetify-cli">Spicetify</a> theme inspired by Windows 11 UI and Microsoft's Fluent Design</li>
 		</Fluent.TextBlock>
 		</ul>
-	
+<ul>
+			<Fluent.TextBlock>
+
+<li>Icon: Made by <a href="https://twitter.com/Qirkl">Qirkl</a></p></li>
+
+</ul>
+			</Fluent.TextBlock>
+
 		<ul>
 			<Fluent.TextBlock>
 			<p><li>
