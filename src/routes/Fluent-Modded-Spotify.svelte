@@ -50,7 +50,7 @@ import "fluent-svelte/theme.css";
 		
 		<li>After scoop is installed, type <code>Set-ExecutionPolicy unrestricted</code> in Powershell with elevated privileges</li>
 		
-		<li>Run Spotify.exe as admin (it's a 7z archive and requires admin to extract the files for some reason)</li>
+		<li>Run Spotify.exe as admin (it's an sfx archive and requires admin to extract the files)</li>
 		
 		<li>Run <code>autorunscript.ps1</code> to install all dependencies</li>
 		
@@ -79,8 +79,6 @@ import "fluent-svelte/theme.css";
 		<p>Follow the same process for Linux above, except the install scripts can be downloaded from <a href="https://github.com/windowz414/FMS-Arch">here</a></p>
 		
 		<todo content="[windowz414]: Finish fullinstall_arch.sh (A script to unify FMS-Arch) and put its utilization instead." />
-
-		<p>Credits: Installation steps for Windows by <a href="https://github.com/donut2008">donut2008</a></p>
 		
 		<p>Note: <code>autorunscript.ps1</code>/<code>autorunscript.sh</code> is a file which automatically installs the dependencies for this app (needs admin priviledges to work)</p>
 </Fluent.TextBlock>
@@ -102,6 +100,14 @@ import "fluent-svelte/theme.css";
 			<Fluent.TextBlock>
 
 <li>Icon: Made by <a href="https://twitter.com/Qirkl">Qirkl</a></p></li>
+
+</ul>
+			</Fluent.TextBlock>
+
+<ul>
+			<Fluent.TextBlock>
+
+<li>Installation steps for Windows: <a href="https://github.com/donut2008">donut2008</a></li>
 
 </ul>
 			</Fluent.TextBlock>
