@@ -99,7 +99,7 @@ import "fluent-svelte/theme.css";
 <ul>
 			<Fluent.TextBlock>
 
-<li>Icon: Made by <a href="https://twitter.com/Qirkl">Qirkl</a></p></li>
+<li>Icon: Made by <a href="https://twitter.com/Qirkl">Qirkl</a></li>
 
 </ul>
 			</Fluent.TextBlock>
