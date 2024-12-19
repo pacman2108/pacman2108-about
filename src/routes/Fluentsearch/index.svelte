@@ -8,8 +8,9 @@ import { Button, Checkbox, ToggleSwitch, RadioButton, TextBox, Slider, Expander,
 <h1 align="center">Fluent Search</h1>
 <form on:submit={handleSubmit}>
 	<!--<input type="search" bind:value={query} placeholder="Search the web" />-->
-<TextBox type="search" placeholder="Search the web" style="text-align:center"/>
+
 	<div class="pad ctext">
+	<TextBox type="search" placeholder="Search the web" style="text-align:center"/>
 		<Fluent.Button variant="standard" type="submit">Search</Fluent.Button>
 	</div>
 </form>
