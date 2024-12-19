@@ -12,11 +12,9 @@ import { Button, Checkbox, ToggleSwitch, RadioButton, TextBox, Slider, Expander,
 	<div class="pad ctext">
 	<TextBox type="search" placeholder="Search the web" style="text-align:center"/>
 		<Fluent.Button variant="standard" type="submit">Search</Fluent.Button>
+			<Fluent.Button variant="standard" href="https://www.google.com/doodles" target="_blank" rel="noopener noreferrer">I'm Feeling Lucky</Fluent.Button>
 	</div>
 </form>
-<div class="pad ctext">
-	<Fluent.Button variant="standard" href="https://www.google.com/doodles" target="_blank" rel="noopener noreferrer">I'm Feeling Lucky</Fluent.Button>
-</div>
 
 <style>
 	@import url("https://unpkg.com/fluent-svelte/theme.css");
