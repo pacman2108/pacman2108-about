@@ -19,7 +19,7 @@
 	<Fluent.Button variant="accent" href="https://gitlab.com/pacman2108" target="_blank" rel="noopener noreferrer"><img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pacman2108/pacman2108/be702a19f399e8802b14e43d34545d236c5b102b/gitlab.svg">GitLab</Fluent.Button>
 	&nbsp;
 	<Fluent.Button variant="accent" href="https://www.youtube.com/channel/UC2fvHRsz9lwtnRyFHEdR5wA" target="_blank" rel="noopener noreferrer"><img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/pacman2108/pacman2108/main/youtube.svg">YouTube</Fluent.Button>
-<Fluent.Button variant="accent" href="https://open.spotify.com/user/31d6ezr4ppjirt55dq3eplmocjiy" target="_blank" rel="noopener noreferrer"><img align="left" alt="Spotify" width="21px" src="https://raw.githubusercontent.com/pacman2108/Fluent-Modded-Spotify/main/spotify-icon.png">Spotify</Fluent.Button>
+<Fluent.Button variant="accent" href="https://open.spotify.com/user/31d6ezr4ppjirt55dq3eplmocjiy" target="_blank" rel="noopener noreferrer"><img align="left" alt="Spotify" width="21px" src="https://raw.githubusercontent.com/Fluent-Modded-Spotify/app/main/spotify-icon.png">Spotify</Fluent.Button>
 	&nbsp;
 <Fluent.Button variant="accent" href="https://discordapp.com/users/4C#9284" target="_blank" rel="noopener noreferrer"><img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg">Discord</Fluent.Button>
 	&nbsp;
