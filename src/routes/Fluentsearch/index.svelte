@@ -8,13 +8,14 @@ import { Button, Checkbox, ToggleSwitch, RadioButton, TextBox, Slider, Expander,
 <h1 align="center">Fluent Search</h1>
 <form on:submit={handleSubmit}>
 	<!--<input type="search" bind:value={query} style="text-align:center" placeholder="Search the web" />-->
+	</form>
 
 	<div class="pad ctext" style="text-align:center">
 	<TextBox type="search" placeholder="Search the web" style="text-align:center"/>
 		<Fluent.Button variant="standard" type="submit">Search</Fluent.Button>
 			<Fluent.Button variant="standard" href="https://www.google.com/doodles" target="_blank" rel="noopener noreferrer">I'm Feeling Lucky</Fluent.Button>
 	</div>
-</form>
+
 
 <style>
 	@import url("https://unpkg.com/fluent-svelte/theme.css");
