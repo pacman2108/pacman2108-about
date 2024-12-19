@@ -1,8 +1,8 @@
 <script>
-	import Header from "$lib/header/Header.svelte";
-	import * as Fluent from "fluent-svelte";
-	import "fluent-svelte/theme.css";
-	import { TextBox } from "fluent-svelte";
+import * as Fluent from "fluent-svelte";
+import "fluent-svelte/theme.css";
+import { Button, Checkbox, ToggleSwitch, RadioButton, TextBox, Slider, Expander, ContentDialog, Flyout, InfoBar, InfoBadge, ProgressRing, PersonPicture, IconButton, TextBlock, ListItem
+, CalendarView } from "fluent-svelte";
 </script>
 
 <h1 align="center">Fluent Search</h1>
