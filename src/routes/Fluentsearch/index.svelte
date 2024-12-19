@@ -14,7 +14,8 @@
 
 <h1 align="center">Fluent Search</h1>
 <form on:submit={handleSubmit}>
-	<input type="search" bind:value={query} placeholder="Search the web" />
+	<!--<input type="search" bind:value={query} placeholder="Search the web" />-->
+<TextBox placeholder="Search the web" type="search" bind:value={query} style="text-align:center"/>
 	<div class="pad ctext">
 		<Fluent.Button variant="standard" type="submit">Search</Fluent.Button>
 	</div>
