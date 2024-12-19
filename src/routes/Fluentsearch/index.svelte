@@ -14,7 +14,7 @@ import { Button, Checkbox, ToggleSwitch, RadioButton, TextBox, Slider, Expander,
 		<Fluent.Button variant="standard" type="submit">Search</Fluent.Button>
 			<Fluent.Button variant="standard" href="https://www.google.com/doodles" target="_blank" rel="noopener noreferrer">I'm Feeling Lucky</Fluent.Button>
 	</div>
-	</form>t
+	</form>
 
 <style>
 	@import url("https://unpkg.com/fluent-svelte/theme.css");
