@@ -47,7 +47,7 @@
 			<ul>
 				<li><Fluent.Button variant="hyperlink" href="https://github.com/pacman2108/Superfolders" target="_blank" rel="noopener noreferrer">Superfolders</Fluent.Button></li>
 				<li><Fluent.Button variant="hyperlink" href="https://tinyurl.com/fms-webpage" target="_blank" rel="noopener noreferrer">Fluent-Modded-Spotify</Fluent.Button></li>
-				<li><Fluent.Button variant="hyperlink" href="https://github.com/Pidgin-Droid" target="_blank" rel="noopener noreferrer">Pidgin-Droid <br>(Pidgin client for Android)</Fluent.Button></li>
+				<li><Fluent.Button variant="hyperlink" href="https://github.com/pacman2108/pidginlite" target="_blank" rel="noopener noreferrer">Pidgin-Droid <br>(Pidgin client for Android)</Fluent.Button></li>
 				& many more cool projects
 			</ul>
 		</svelte:fragment>
